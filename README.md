@@ -5,8 +5,8 @@ Tenho muito interesse na linguagem Java, atualmente estou estudando sobre Kotlin
 
 <div>
   <a href="https://github.com/almoliveira">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=almoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=28"/>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoliveira&layout=compact&langs_count=4&theme=jolly&border_radius=28"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=almoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=28"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoliveira&layout=compact&langs_count=4&theme=jolly&border_radius=28"/>
   </a>
 </div>
 
