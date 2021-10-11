@@ -27,6 +27,8 @@
 <img align="left" alt="JavaScript" width="40px" src="/src/javascript/javascript_32x32.png">
 <img align="left" alt="TypeScript" width="40px" src="/src/typescript/typescript_32x32.png">
 
+<br />
+<br />
 
 
 <div>
