@@ -17,7 +17,7 @@
 <br />
 
 ### Linguagens que conheço:
-
+<div>
 <img align="left" alt="Java" width="40px" src="/src/java/java_32x32.png">
 <img align="left" alt="C#" width="40px" src="/src/csharp/csharp_32x32.png">
 <img align="left" alt="Python" width="40px" src="/src/python/python_32x32.png">
@@ -26,7 +26,7 @@
 <img align="left" alt="CSS" width="40px" src="/src/css/css_32x32.png">
 <img align="left" alt="JavaScript" width="40px" src="/src/javascript/javascript_32x32.png">
 <img align="left" alt="TypeScript" width="40px" src="/src/typescript/typescript_32x32.png">
-
+</div>
 <br />
 <br />
 
