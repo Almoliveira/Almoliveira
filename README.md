@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{André Luís Martins de Oliveira}!</strong>
+## 💜 Olá, meu nome é <strong>André Luís Martins de Oliveira!</strong>
 
 - Sou formado em Análise e Desenvolvimento de Sistemas.
 - Estou cursando uma segunda faculdade em Engenharia da Computação.
