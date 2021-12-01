@@ -7,7 +7,7 @@
 - Meu objetivo é me aperfeiçoar e fazer a diferença nesse mundo!
 ----
 
-
+  
 ## 💼 Entre em contato comigo:
 
 <a href="https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-martins-de-oliveira-b7a776178">
@@ -15,7 +15,7 @@
 </a>
 <a href="mailto:an10.martins.oliveira@gmail.com">
   <img align="left" alt="Almoliveira | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a>  
 
 
 
