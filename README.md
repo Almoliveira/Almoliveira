@@ -1,3 +1,5 @@
+
+
 ## 💜 Olá, meu nome é <strong>André Luís Martins de Oliveira!</strong>
 
 - Sou formado em Análise e Desenvolvimento de Sistemas.
@@ -6,17 +8,6 @@
 - Estou sempre disposto a aprender cada vez mais!
 - Meu objetivo é me aperfeiçoar e fazer a diferença nesse mundo!
 ----
-
-  
-## 💼 Entre em contato comigo:
-
-<a href="https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-martins-de-oliveira-b7a776178">
-  <img align="left" alt="Almoliveira | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:an10.martins.oliveira@gmail.com">
-  <img align="left" alt="Almoliveira | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>  
-
 
 
 ## 🚀 Minhas Skills
@@ -35,6 +26,23 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
+
+
+---
+
+
+ ## 💼 Entre em contato comigo:
+
+<div>
+<a href="https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-martins-de-oliveira-b7a776178">
+  <img align="left" alt="Almoliveira | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:an10.martins.oliveira@gmail.com">
+  <img align="left" alt="Almoliveira | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>  
+</div>  
+<br>
+
 
 
 ---
