@@ -31,6 +31,11 @@
 ---
 
 
+## 📖 Skills em treinamento:
+<code><img height="32" src="src/kotlin/kotlin_32x32.png" alt="kotlin"/></code>
+<code><img height="32" src="src/nodejs/icons8-nodejs-96.png" alt="nodejs"/></code>
+<code><img height="32" src="src/reactnative/icons8-react-native-64.png" alt="reactnative"/></code>
+
  ## 💼 Entre em contato comigo:
 
 <div>
