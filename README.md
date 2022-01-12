@@ -48,7 +48,11 @@
 </div>  
 <br>
 
+## 🏆 Minhas badges
 
+<img height="180"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Almoliveira&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 ---
 
