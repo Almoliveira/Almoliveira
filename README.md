@@ -7,6 +7,7 @@
 - Estou cursando uma pós graduação em Ciência de Dados e Big Data.
 - Estou sempre disposto a aprender cada vez mais!
 - Meu objetivo é me aperfeiçoar e fazer a diferença nesse mundo!
+- Estou estudando para as certificações Azure!
 ----
 
 
