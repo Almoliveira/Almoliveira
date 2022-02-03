@@ -63,14 +63,6 @@
 
 ---
 
-## 🏆 Minhas badges
-
-<img height="180"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Almoliveira&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
----
-
 ## ⭐ Informações sobre minha conta GitHub
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api?username=almoliveira&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=28"></img>
 <img height="180" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almoliveira&layout=compact&langs_count=4&theme=jolly&border_radius=28"></img>
