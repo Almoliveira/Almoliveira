@@ -15,6 +15,7 @@
 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
+<code><img height="32" src="src/nodejs/icons8-nodejs-96.png" alt="nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg" alt="Spring"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c#"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -44,7 +45,6 @@
 
 ## 📖 Skills em treinamento:
 <code><img height="32" src="src/kotlin/kotlin_32x32.png" alt="kotlin"/></code>
-<code><img height="32" src="src/nodejs/icons8-nodejs-96.png" alt="nodejs"/></code>
 <code><img height="32" src="src/reactnative/icons8-react-native-64.png" alt="reactnative"/></code>
 
 ---
